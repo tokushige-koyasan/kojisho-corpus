@@ -1,0 +1,12 @@
+kojisho-corpus v1.0.0 上流スナップショット記録（2026-09-10 clone）
+
+shikeda/HDIC  branch=master  commit=5175d780f5f462339731806355b0f9ffa44bb55f  committed=2026-09-06 06:56:36 +0900
+shikeda/krm   branch=main    commit=8c5c5f71acca164db13c6bdf71a7d45b98ed6fb3  committed=2026-09-05 08:29:55 +0900
+
+収録方針：原ファイルは無加工（改行はLF正規化のみ。上流にCR/CRLFは存在せず、全ファイルが上流とバイト同一）。
+上流ファイルSHA-256はSHA256SUMS.txtと同一（バイト同一のため）。
+
+不採用（上流に存在するが収録しないもの）：
+  HDIC: KRM.tsv / KRM_definitions.tsv / KRM_wakun.tsv / KRM_ndl.txt（旧版。shikeda/krmの改訂版を採用）
+  HDIC: images/ samples/ v1.2/（v1.2はkrmへ移転済みの案内のみ） .claude/ CLAUDE.md README.md .gitignore
+  krm : *.json（TSVからの派生物）、krm.db（Git管理外）、scripts/ webapp/（MIT、ツール）、diff/ examples/ images/、docs/のうちdata_specification以外

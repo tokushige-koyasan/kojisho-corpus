@@ -1,0 +1,42 @@
+#	HDIC Project
+#	Integrated Database of Hanzi Dictionaries in Early Japan
+#
+#	YQF: Yuanben Yupian Quoted Fragments in other books
+#   原本玉篇逸文
+#
+#	Version: 1.0.2
+#	Date: 2016-09-10
+#	Last update : 2022-02-02
+#
+# Copyright (c) 2016-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+# LI Yuan (Person in Charge)
+# Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
+# North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
+# Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
+#
+# Data License Information and Access Rights
+# License: 
+# Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
+# Access Rights (Availability): 
+# Open access
+#
+#	TSV Format information:
+#   ----------------------
+#	YQFID	: Title abbreviation and page or number, for details, refer to the following section
+#	TBID (v_www_xyz) 	: Book(v), leaf(www), recto-verso(x), line(y) and number(z) of Tenrei Bansho Meigi 篆隷万象名義
+#	Entry	: Headword
+#	YQF_remarks	: Editor's notes
+#
+#   YQFID
+#   -----
+#   Title abbreviations
+#   佚   : Okai Shingo 岡井慎吾. Gyokuhen itsubun 玉篇佚文 [A list of Yupian quoted fragments in other books] . Gyokuhen no kenkyu 玉篇の研究 [A study of yupian]. Toyo Bunko (The Oriental Library) 東洋文庫. 1933.
+#   補   : Mabuchi Kazuo 馬渕和夫. Gyokuhen itsubun hosei 玉篇佚文補正 [A revised list of Yupian quoted fragments in other books]. Tokyo Bunrika Daigaku Kokugo Kokubun Gakkai Kiyo (Bulletin of the Association for the Study of Japanese Language and Literature, Tokyo University of Arts and Sciences) 東京文理科大学国語国文学会紀要 3: 1-153. 1952.
+#   新   : The original Yupian quoted fragments in Shinsen jikyo 新撰字鏡所引玉篇. Sadakari Itoku 貞苅伊徳. Sinsen jikyo no kaibō 新撰字鏡の解剖. Sinsen jikyo no kenkyū 新撰字鏡の研究. Tokyo: Kyūko Shoin 東京: 汲古書院. 1998
+#   理   : The original Yupian quoted fragments in Daijō rishu rokuharamitsukyō shakumon 大乘理趣六波羅蜜經釋文所引玉篇. Daijō rishu rokuharamitsukyō shakumon 大乘理趣六波羅蜜經釋文 (Uhaturashitsu sōsho 優鉢羅室叢書).Kyoto: Kanda Kiichirō 神田喜一郎. 1972.
+#   令   : The original Yupian quoted fragments in Ryō-no-Shūge 令集解所引玉篇. Inoue Masamichi 井上順理. Ryō-no-Shūge in Gyokuhen itsubun kō 令集解引玉篇佚文考 [A study of fragments from Yupian gleaned from Ryō-no-Shūge]. Reports of the Faculty of Education: Humanities and Social Sciences 鳥取大学教育学部研究報告.人文社会科学 17: 77-124. 1966.
+#   類   : The original Yupian quoted fragments in Zushoryō manuscript Ruiju myōgishō 図書寮本類聚名義抄所引玉篇.
+#   弘   : The Tenrei banshō meigi quoted fragments in Zushoryō manuscript Ruiju myōgishō 図書寮本類聚名義抄所引篆隷万象名義.
+#
+#	This work was supported by JSPS KAKENHI Grant Number 16H03422.
+#
