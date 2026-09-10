@@ -51,5 +51,3 @@ kojisho-corpus/
 
 - HDIC project（池田証壽代表）「平安時代漢字字書総合データベース」https://github.com/shikeda/HDIC （各ファイルの版番号・日付はヘッダー参照）
 - Ikeda, Shōju. (2026). *KRM: Database of the Kanchi-in Manuscript of the Ruiju Myōgishō*. Version v1.2.7. Zenodo. https://doi.org/10.5281/zenodo.22164768 （本リポジトリ収録の krm TSV は v1.2.7 以後の GitHub 現行版であり、Zenodo 版とは細部が異なる。学術引用は上流の指示に従い Zenodo 版を用いること）
-
-本コーパスは高野山大学（Kōyasan University）の密教研究・空海研究のための参照データとして整備した。
